@@ -8,21 +8,21 @@ body
     padding: 0;
 }
 
-#cabecera
+#Master
 {
-background-color: rgb(88, 158, 8);
-box-shadow: rgba(252, 15, 7, 0.959);
-color: rgb(158, 194, 39);
+background-color: rgb(52, 156, 11);
+box-shadow: 0px 4px 15px 0px;
+color: rgb(0, 0, 0);
 margin: 1;
 padding: 0.5em;
 }
 
-#cabecera #tagline
+#Master #tagline
 {
- max-width: 0 0 0 1em; 
+ padding: 0 0 1em;
  font-weight: normal; 
  font-size: 0.8;
- color: rgb(87, 5, 5);
+ color: blanchedalmond;
 }
 
 #container
