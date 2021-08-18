@@ -41,3 +41,10 @@ margin: 1;
 {
     padding: 0em;
 }
+
+#footer
+{
+    background-color: rgb(250, 24, 24);
+    color: rgb(12, 233, 23);
+    text-align: center; 
+}
